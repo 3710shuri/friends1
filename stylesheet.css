@@ -91,3 +91,23 @@ footer{
 .keyaki h2{
   color: crimson;
 }
+
+/* メディアクエリ */
+@media(max-width:600px){
+  .container{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .header-logo img{
+    width: 40%;
+  }
+
+  .header-logo a{
+    font-size: 20px;
+  }
+
+  .header-right{
+    font-size: 13px;
+  }
+}
