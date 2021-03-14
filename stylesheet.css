@@ -1,0 +1,93 @@
+.container{
+  max-width: 900px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.head-wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainvisual img{
+  width: 100%;
+}
+
+footer{
+  text-align: center;
+  opacity: 0.7;
+}
+
+.friend-contents{
+  list-style: none;
+}
+
+/* header */
+.header-logo{
+  display: flex;
+  align-items: center;
+}
+
+.header-logo img{
+  width: 100px;
+  border-radius: 50%;
+}
+
+.header-logo a{
+  text-decoration: none;
+  color: black;
+}
+
+.header-logo a:hover{
+  opacity: 0.7;
+}
+
+.header-right ul{
+  display: flex;
+}
+
+.friend-contents a{
+  text-decoration: none;
+  color: black;
+  padding-right: 10px;
+}
+
+.friend-contents a:hover{
+  opacity: 0.7;
+}
+
+/* main */
+.friend-text{
+  text-align: center;
+  list-style: none;
+}
+
+.friends-img{
+  width: 100%;
+}
+
+.mesi-introduction{
+  text-align: left;
+}
+
+.konio-introduction{
+  text-align: left;
+}
+
+
+.eve{
+  width: 100%;
+}
+
+.iwase-beach{
+  width: 100%;
+}
+
+.keyaki-img{
+  width: 100%;
+}
+
+.keyaki h2{
+  color: crimson;
+}
